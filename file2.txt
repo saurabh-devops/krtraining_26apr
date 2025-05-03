@@ -2,3 +2,4 @@ adding for demo
 adding line in file2
 adding line to demo fetch
 adding line for push demo
+adding line for push rebase option
