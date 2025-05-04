@@ -1,3 +1,4 @@
 demo
 demo diff file 3
 demo merge 2
+demo merge3
