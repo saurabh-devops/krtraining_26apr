@@ -5,3 +5,5 @@ adding line for push demo
 adding line for push rebase option
 
 adding demo reset hard
+
+demo merge 3
