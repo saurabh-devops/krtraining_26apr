@@ -2,4 +2,4 @@ ading line 1
 demo
 demo diff
 demo merge ff
-demo merge 3
+demo merge conflict
