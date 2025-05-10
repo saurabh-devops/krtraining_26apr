@@ -1,5 +1,7 @@
 ading line 1
 demo
 demo diff
+demo merge ff
+demo merge conflict
 demo merge conflict line2
 demo merge coflict line3
